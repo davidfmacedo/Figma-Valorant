@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@import url('https://fonts.cdnfonts.com/css/druk-trial');
+
+
+
+body{
+    background: #FF4656 no-repeat fixed url('./img/background.png') ;
+    
+}
+header{
+   
+    border:solid;
+    background-color: black;
+    margin-top: -0.5em;
+    margin-left: -0.5em;
+    height: 4em;
+   
+}   
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 0px;
+    position: absolute;
+    font-family: 'montserrat';
+    color: #ffffff;
+}
+#imagens{
+  
+    position: absolute;
+}
+#riot{
+    margin: 0px;
+    position: absolute;
+    left: 30px;
+}
+#logo{
+    margin: 0px;
+    position: absolute;
+    left: 200px;
+}
+#retan{
+    margin: 0px;
+    position: absolute;
+    left: 130px;
+}
+#icone{
+    margin: 0px;
+    position: absolute;
+    left: 1671px;
+    top: 7px;
+}
+#nome{
+    margin: 0px;
+    position: absolute;
+    left: 1720px;
+    top: 15px;
+    font-family: 'montserrat';
+    color: #ffffff;
+}
+#game{
+left: 325px;
+
+}
+#champ{
+left: 447px;
+}
+#news{
+left: 602px;
+}
+#patch{
+left: 740px;
+}
+#disc{
+left: 915px; ;
+}
+#esp{
+left: 1079px;
+}
+#univ{
+left: 1234px; ;
+}
+#shop{
+left: 1389px;
+}
+#supp{
+left: 1512px;
+}
+
+#triangulo1{
+  
+        width: 0; 
+        height: 0; 
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        border-top: 7px solid #ffffff;
+        margin: 0px;
+        position: absolute;
+        left: 670px;
+        top: 25px;
+}
+#triangulo2{
+  
+    width: 0; 
+    height: 0; 
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #ffffff;
+    margin: 0px;
+    position: absolute;
+    left: 1025px;
+    top: 25px;
+}
+#triangulo3{
+  
+    width: 0; 
+    height: 0; 
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #ffffff;
+  margin: 0px;
+  position: absolute;
+  left: 1920px;
+  top: 30px;
+}
+
+#raze{
+    position: absolute;
+    margin: 0px;
+    left: 300px;
+    top: -250px;
+    z-index: 5;
+}
+h1{
+    font-family: 'druk trial';
+    font-size: 500px;
+    letter-spacing: 35px;
+    color: transparent;
+    -webkit-text-stroke: 1px #FFF;
+      text-stroke: 1px #FFF;
+      position:absolute;
+}
+
+#fuor{
+    position: absolute;
+    margin: 0%;
+    top: 50px;
+   
+}
+#not{
+    position: absolute;
+    margin: 0%;
+    top: 450px;
+}
+#espaço{
+    border:solid white;
+    background-color: #ffffff;
+    margin-top: -0.5em;
+    margin-left: -0.5em;
+    height: 4em;
+}
+input{
+    position: absolute;
+    background-color:rgb(255, 255, 255);
+    font-size: 50px;
+    top: 1100px;
+    left: 50px;
+    width: 400px;
+   font-weight: bold;
+    border-radius: 5px;
+    font-family: 'druk trial';
+}
+#borda{
+    position: absolute;
+    top: 1090px;
+    left: 40px;
+    border: solid;
+    width: 400px;
+    height: 65px;
+    border-width: thin;
+    z-index: 5;
+}
+#news1{
+    background-color: #ffffff;
+    width: 650px;
+    position: absolute;
+    top: 1300px;
+    left: 50px;
+    
+}
+#news2{
+    background-color: #ffffff;
+    width: 650px;
+    position: absolute;
+    top: 1300px;
+    left: 750px;
+    z-index: 5;
+}
+#news3{
+    background-color: #ffffff;
+    width: 650px;
+    position: absolute;
+    top: 1300px;
+    left: 1450px;
+    z-index: 5;
+}
+p{
+    font-family: 'druk trial';
+    font-size: 30px;
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+pre{
+    font-family: 'druk trial';
+   color: rgb(184, 185, 187);
+   position: absolute;
+   top: 60px;
+   left: 200px;
+   font-size:  25px;
+}
+.imagem{
+    background-color: #FF4656;
+}
+.espaço{
+    border:solid white;
+    background-color: #ffffff;
+    margin-top: 80em;
+    margin-left: -0.5em;
+    height: 7em;
+}
